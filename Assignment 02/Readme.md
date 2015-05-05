@@ -2,6 +2,11 @@
 
 ___This homework is due by 8am, on 05/06/2015___
 
+There are two parts to this assignment.
+
+1. The Layout Excercise below
+2. Please upload a profile picture to your Github account. 
+
 # Intro to HTML/CSS Layout
 
 ## Description
@@ -35,6 +40,8 @@ After completing this assignment, you be able to effectively use
 * A repo containing at least:
   * `main.css`
   * `index.html`
+* A headshot on your Github profile page
+
 
 
 ## Normal Mode
