@@ -60,6 +60,10 @@ We've not talked about how to make things responsive yet, but if you are interes
 
 # Resources
 
+### Files
+
+* [Zip of Assets](http://cl.ly/2o283a3w2y0u)
+
 ### Fonts
 
 * [Header Font: Oswald](https://www.google.com/fonts#UsePlace:use/Collection:Oswald)
