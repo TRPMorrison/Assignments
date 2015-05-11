@@ -15,7 +15,7 @@ ___This homework is due by 8am, on 05/12/15___
 
     * `README.md`
     * `.gitignore`
-    * Completed `normal.js`
+    * Completed `main.js`
 
 ## Deliverables
 
