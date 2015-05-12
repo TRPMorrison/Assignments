@@ -24,6 +24,6 @@ ___This homework is due by 8am, on 05/12/15___
 
 ## Go Further
 
-1. Listen to the [JS Jabber Interview with Brendan Eich](http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich_)
+1. Listen to the [JS Jabber Interview with Brendan Eich](http://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 2. Sign up for [JS Weekly](http://javascriptweekly.com/)
 3. Browse through [Superhero.js](http://superherojs.com/)
