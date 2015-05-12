@@ -32,6 +32,7 @@ After completing this assignment, you be able to effectively use
 * A repo containing at least:
   * `main.js`
   * `index.html`
+* A link to the deployed project
 
 ### Requirements
 
