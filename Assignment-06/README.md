@@ -30,5 +30,5 @@ Also include a link to your `functions.js` file. You should create a seperate re
 
 ## Resources
 
-* [SASS Website](http://sass-lang.com/install)
+* [SASS Guide](http://sass-lang.com/guide)
 * [CSS Style Guide](https://github.com/necolas/idiomatic-css)
