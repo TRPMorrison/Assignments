@@ -6,7 +6,7 @@ ___This homework is due by 8am, on 05/14/15___
 
 #### Part 1
 
-Download the included `functions.js` you will find a list of questions. Each question describes a function you need to create. Also make sure your code has no issues when run through **JS Hint**.
+Download the included `functions.js` you will find a list of questions. Each question describes a function you need to create.
 
 
 #### Part 2
