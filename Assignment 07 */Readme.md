@@ -60,7 +60,7 @@ After completing this assignment, you be able to effectively use
 1. Show me how to calculate the average price of all items.
 
   ```
-  The average price is $23.62
+  The average price is $23.63
   ```
 
 2. Show me how to get an array of items that cost between $14.00 and $18.00 USD
