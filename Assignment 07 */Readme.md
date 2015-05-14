@@ -27,11 +27,16 @@ After completing this assignment, you be able to effectively use
 
 ### Deliverables
 
-- A repo containing at least:
+- Two separate repos (projects)
+- 1. A repo containing at least:
   - `main.js`
   - `items.js`
   - `index.html`
-- A link to the deployed project
+- 2. A repo containing at least:
+  - `exercises.js`
+  - `index.html`
+
+- A link to *both* deployed projects
 
 ### Requirements
 
