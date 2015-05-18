@@ -36,7 +36,7 @@ After completing this assignment, you should:
 
 ## Hard Mode
 
-  1. Create a new version of the clock, but convert it to a  this time actually conHex clock. See `advanced.gif` screenshot below.
+  1. Create a new version (separate project), but this time have it convert to actual HEX values. See `advanced.gif` screenshot below.
 
 ![](./images/advanced.gif)
 
