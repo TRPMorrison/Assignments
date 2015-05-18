@@ -14,13 +14,13 @@ After completing this assignment, you should:
 
 ### Normal Mode
 
-  1. Create a JavaScript clock you see in `basic.gif` below.
-    * Note it does not need to be the same font, just look similar. 
-    * Have fun with the design.
+- Create a JavaScript clock you see in `basic.gif` below.
+  * Note it does not need to be the same font, just look similar. 
+  * Have fun with the design.
 
 ![](./images/basic.gif)
 
-  2. After you have done that, modify it show as a hex color and on each second tick, change the background color. See `hex.gif` below for reference.
+- After you have done that, modify it show as a hex color and on each second tick, change the background color. See `hex.gif` below for reference.
 
 ![](./images/hex.gif)
 
