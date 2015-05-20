@@ -29,7 +29,7 @@ Re-Create An Etsy Page - https://www.etsy.com/search?q=whiskey
 8. Also, no need to make any of the form elements work, just style them properly
 9. Lastly, worry about the structure first, the JS second and the fine details of the design last
 
-> Note: The assets (heart and hamburger icons) are in an assets folder for you. 
+> Note: The assets (heart, cart and hamburger icons) are in an assets folder for you. 
 
 ## Hard & Nightmare Mode
 
