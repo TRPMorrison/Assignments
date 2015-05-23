@@ -31,9 +31,32 @@ Re-Create An Etsy Page - https://www.etsy.com/search?q=whiskey
 
 > Note: The assets (heart, cart and hamburger icons) are in an assets folder for you. 
 
-## Hard & Nightmare Mode
+## Hard Mode
 
-> Coming Soon :D
+#### Part 1
+
+1. Using the `excercises.js` file, complete each exercise
+
+#### Part 2
+
+1. Write a function that will decode the following quote.
+2. Write a function that will endcode the decoded message back to the message below.
+
+> Lnl! Lbh unir qrpbqrq zl frperg zrffntr!
+ 
+HINT: [Read This](http://en.wikipedia.org/wiki/ROT13)
+
+You'll need to use:
+
+* [`String.prototype.charCodeAt()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt)
+* [`String.fromCharCode()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode)
+
+## Nightmare Mode
+
+1. Create your own API token by signing up as an [Etsy developer](https://www.etsy.com/developers/)
+2. Pull the categories from the data to create the sidebar, with links that filter the listings.
+3. Implement the sorting dropdown so that when you change the sort method the items will reload into a different orde.
+
 
 
 ## Resources
