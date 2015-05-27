@@ -4,7 +4,7 @@ ___This homework is due by 8am, on 06/02/2015___
 
 ## Description
 
-- See description [here](https://github.com/tiy-atl-js-q2-2015/Restaurant)
+- Group Project [description here](https://github.com/tiy-atl-js-q2-2015/Restaurant)
 - You will be presenting your work the morning of June 2nd.
 
 ## Objectives
