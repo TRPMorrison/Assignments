@@ -9,7 +9,7 @@ ___This homework is due by 8am, on 06/03/2015___
 - How do you feel like you are doing?
 - What is something you are really struggling with?
 - How did the group project go? How was working with your teammates?
-- Is there anything that you wish I, JD or TIY would be doing differently?
+- Is there anything that you wish I would be doing differently?
 - Anything else you need to get off your chest?
 
 You can sign up for a time to meet with me [at my Calendly link](https://calendly.com/twhitacre)
