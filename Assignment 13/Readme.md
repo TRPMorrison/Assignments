@@ -49,7 +49,7 @@ Recreate the following layout in HTML and CSS:
 ![](./medium.png)
 ![](./small.png)
 
-Using the data from this API endpoint - [API ENDPOINT](http://private-44f6d-timeline6.apiary-mock.com/timeline)
+Using the data from this API endpoint - [http://private-44f6d-timeline6.apiary-mock.com/timeline](http://private-44f6d-timeline6.apiary-mock.com/timeline)
 
 - The data must be pulled in live (as it might change)
 - The page must be responsive and transition to each of the sizes above
