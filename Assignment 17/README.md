@@ -11,9 +11,10 @@ The javascript koans are your path to enlightenment in JavaScript. They are a gr
   * Head over [here](https://github.com/mrdavidlaing/javascript-koans) & Fork the project
   * Delete the existing `gh-pages` branch (do this on github)
   * Clone down your fork of it
-  * Create a new `gh-pages` branch from master
-  * Open the test suite at `KoansRunner.html`
-  * Make all 53 Koans pass
+  * Create a new `gh-pages` branch from master & checkout it out
+  * Change the `KoansRunner.html` to `index.html` - so it will work in GH Pages
+  * Open the test suite at `index.html`
+  * Make all 53 Koans pass - make sure there is 53 of them.
   * Make sure to commit after each section so you don't loose any work
 
   * __Note:__ The underscore version included in `lib/underscore-min.js` is 4 years old and missing a lot of the current features. I went through and solved it using the old underscore version that it comes with. However, feel free to update it to the newer underscore.
