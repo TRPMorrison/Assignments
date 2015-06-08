@@ -6,8 +6,8 @@ Refactor your Todo  application to utilize javascript constructors. Make a TodoI
 
 ## Objectives
 
-- Fork your todo app assignment
-- Refactor your todo app fork to use at least 1 constructor
+- Create a branch called `prototype` on your original TodoItem repo 
+- Refactor your `prototype` branch to use at least 1 prototype
 - Make sure that when you mark one instance of todo item as complete it does not effect others.
 
 ### Learning Objectives
@@ -18,7 +18,7 @@ After completing this assignment, you should understand the relationship between
 
 ### Deliverables
 
-* A fork of your todo app refactored to use at least one constructor
+* A link to your `prototype` branch so I can view your JS file
 
 ## Additional Resources
 
