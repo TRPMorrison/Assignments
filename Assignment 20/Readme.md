@@ -16,3 +16,7 @@ Create a single page application using Backbone. This will be fairly similar to 
 - A deployed URL to Divshot
 - A link to your repository
 - No JSHint errors
+
+## Resources
+
+- [Image Uploading Site](http://imgur.com/)
