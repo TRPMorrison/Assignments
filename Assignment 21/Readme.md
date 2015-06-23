@@ -36,7 +36,7 @@ After completing this assignment, you be able to effectively use
 ### Requirements
 
 * No JSHint warnings or errors
-* The text on the like button should correctly pluralize its self. For example: 0 likes, 1 like, 2 likes ... (even though my button does not)
+* The text on the like button should correctly pluralize its self. For example: 0 likes, 1 like, 2 likes ...
 
 
 ## Normal Mode
