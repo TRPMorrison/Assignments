@@ -1,3 +1,7 @@
+# 06/23/15
+
+___This homework is due by 8am, on 06/24/2015___
+
 # Build a like button with Angular
 
 ## Description
