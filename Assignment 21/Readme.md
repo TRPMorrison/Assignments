@@ -27,7 +27,7 @@ After completing this assignment, you be able to effectively use
 
 * A repo containing at least:
   * `index.html`
-  * `scripts/main.js` -> which should contain a `angular.module()` and `collection`
+  * `scripts/main.js` -> which should contain a `angular.module()` and `controller`
 
 ### Requirements
 
